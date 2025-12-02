@@ -1,5 +1,4 @@
 # SOC-Analyst-Portfolio | Rinae Nyamande
-# SOC Analyst Portfolio | [Your Name]
 
 ## Overview
 Hands-on cybersecurity portfolio demonstrating incident response skills through LetsDefend SOC simulations.
